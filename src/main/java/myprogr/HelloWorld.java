@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("HelloWorld init ");
 		String str ="juz zaczelo";
 		System.out.println("HelloWorld "+ str);
+		String str2 ="poprawka";
+		System.out.println("HelloWorld "+ str2);
 	}
 
 }
